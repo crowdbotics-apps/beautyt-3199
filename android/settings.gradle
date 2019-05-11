@@ -1,0 +1,3 @@
+rootProject.name = 'beautyt_3199'
+
+include ':app'
